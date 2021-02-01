@@ -10,15 +10,14 @@ I find solutions to problems.
    - Web Server configuration (nginx / lighttpd / Apache)
  - Programming
 
-### Main Programming Experience (I've made useful things)
-  - Java
-  - Golang
-  - Bash
+### Programming Experience
+| Main Experince | Some Experience |
+| -------------  | -------------   |
+| Java           | javascript      |
+| Golang         | CSS             |
+| Bash           | HTML (Markup)   |
 
-### Some Programming Experience
- - javascript
- - CSS / HTML (Markup)
- 
+
 ### Hobbies
   - Computers
   - Speedrunning
