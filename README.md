@@ -11,11 +11,11 @@ I find solutions to problems.
  - Programming
 
 ### Programming Experience
-| Main Experince | Some Experience |
-| -------------  | -------------   |
-| Java           | javascript      |
-| Golang         | CSS             |
-| Bash           | HTML (Markup)   |
+| Main Experience | Some Experience |
+| -------------   | -------------   |
+| Java            | javascript      |
+| Golang          | CSS             |
+| Bash            | HTML (Markup)   |
 
 
 ### Hobbies
