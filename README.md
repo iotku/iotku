@@ -3,7 +3,6 @@ I'm a Linux enthusiast and Computer Science student.
 
 I find solutions to problems.
 
-
 ### What I do
  - System Administration
    - systemd
@@ -18,6 +17,7 @@ I find solutions to problems.
 
 ### Some Programming Experience
  - javascript
+ - CSS / HTML (Markup)
  
 ### Hobbies
   - Computers
