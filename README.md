@@ -21,7 +21,7 @@ I find solutions to problems.
 ### Hobbies
   - Computers
   - Speedrunning
-  - Rythum Games
+  - Rhythm Games
 
 
 <!--
