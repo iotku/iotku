@@ -6,8 +6,8 @@ I find solutions to problems.
 ### What I do
  - System Administration
    - systemd
-   - package management
-   - Web Server configuration (nginx / lighttpd / Apache)
+   - Linux Containers (LXC) / Docker
+   - Software Configuration
  - Programming
 
 ### Programming Experience
