@@ -10,18 +10,11 @@ I find solutions to problems.
    - Software Configuration
  - Programming
 
-### Programming Experience
-| Main Experience | Some Experience |
-| -------------   | -------------   |
-| Java            | javascript      |
-| Golang          | CSS             |
-| Bash            | HTML (Markup)   |
-
-
-### Hobbies
-  - Computers
-  - Speedrunning
-  - Rhythm Games
+| Main Programming Experience | Some Programming Experience | Hobbies
+| -------------               | --------------------------  | -------
+| Java                        | javascript                  | Computers
+| Golang                      | CSS                         | Speedrunning
+| Bash                        | HTML (Markup)               | Rhythm Games
 
 
 <!--
