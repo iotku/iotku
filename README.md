@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm iotku
-I'm a Linux enthusiast and Computer Science student.
-
-I find solutions to problems.
+I'm a computer enthusiast and currently a Computer Science student.
 
 | Main Programming Experience | Some Programming Experience | Hobbies
 | -------------               | --------------------------  | -------
@@ -9,12 +7,11 @@ I find solutions to problems.
 | Golang                      | CSS                         | Speedrunning
 | Bash                        | HTML (Markup)               | Rhythm Games
 
-### What I do
- - System Administration
-   - systemd
-   - Linux Containers (LXC) / Docker
-   - Software Configuration
- - Programming
+### What I've done
+ - System Administration: systemd <> Docker & LXC Containers <> configuration
+ - Programming: Automation <> Bots <> Web Applications
+ 
+✨I'm always looking to learn more and improve my skills!✨
 
 <!--
 **iotku/iotku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
