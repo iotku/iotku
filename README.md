@@ -3,19 +3,18 @@ I'm a Linux enthusiast and Computer Science student.
 
 I find solutions to problems.
 
-### What I do
- - System Administration
-   - systemd
-   - Linux Containers (LXC) / Docker
-   - Software Configuration
- - Programming
-
 | Main Programming Experience | Some Programming Experience | Hobbies
 | -------------               | --------------------------  | -------
 | Java                        | javascript                  | Computers
 | Golang                      | CSS                         | Speedrunning
 | Bash                        | HTML (Markup)               | Rhythm Games
 
+### What I do
+ - System Administration
+   - systemd
+   - Linux Containers (LXC) / Docker
+   - Software Configuration
+ - Programming
 
 <!--
 **iotku/iotku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
