@@ -3,10 +3,10 @@ I'm a computer enthusiast and currently a Computer Science student.
 
 | Main Programming Experience | Some Programming Experience | Hobbies
 | -------------               | --------------------------  | -------
-| Java                        | JavaScript                  | Computers
-| Golang                      | CSS                         | Speedrunning
-| Bash                        | HTML (Markup)               | Rhythm Games
-|                             | Python                      |
+| Java                        | JavaScript / HTML / CSS     | Computers
+| Golang                      | SQL                         | Speedrunning
+| Bash                        | Python                      | Rhythm Games
+
 
 ### What I've done
  - System Administration: systemd <> Docker & LXC Containers <> configuration
