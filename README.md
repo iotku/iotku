@@ -9,7 +9,7 @@ I'm a computer enthusiast and currently a Computer Science student.
 
 
 ### What I've done
- - System Administration: systemd <> Docker & LXC Containers <> configuration
+ - System Administration: systemd <> LXC Containers <> Web Application Configuration
  - Programming: Automation <> Bots <> Web Applications
  
 ✨I'm always looking to learn more and improve my skills!✨
