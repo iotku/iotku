@@ -14,6 +14,7 @@ I'm a computer enthusiast and currently a Computer Science student.
  
 ✨I'm always looking to learn more and improve my skills!✨
 
+![](https://raw.githubusercontent.com/iotku/iotku/output/github-contribution-grid-snake.svg)
 <!--
 **iotku/iotku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
