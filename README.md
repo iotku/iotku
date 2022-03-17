@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm iotku
-I'm a computer enthusiast and currently a Computer Science student.
 
 | Main Programming Experience | Some Programming Experience | Hobbies
 | -------------               | --------------------------  | -------
