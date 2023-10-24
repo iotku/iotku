@@ -6,7 +6,7 @@
 | Golang                      | SQL                         | Speedrunning
 | Bash                        | Python                      | Rhythm Games
 
-➟I'm initialy self-taught Developer and System Administrator with some general formal college education in Arts, Science, and Computer Science.
+➟ I'm laregely self-taught Developer and System Administrator with some formal college education in Arts, Science, and Computer Science.
 
 ### What I've done
  - System Administration: systemd <> LXC Containers <> Web Application Configuration
