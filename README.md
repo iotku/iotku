@@ -10,7 +10,7 @@
 
 ### What I've done
  - System Administration: systemd <> LXC Containers <> Web Application Configuration
- - Programming: Automation <> Bots <> Web Applications
+ - Programming: Automation <> Bots <> Web Applications <> JavaFX, Swing, and simular GUI Applications
  
 ✨I'm always looking to learn more and improve my skills!✨
 
