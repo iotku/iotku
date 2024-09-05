@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## [Typing Speed](https://monkeytype.com/profile/iotku)
-![image](https://github.com/user-attachments/assets/d404d01f-ae9e-4896-8bf8-d1db7cee0ada)
+## [Typing Speed](https://monkeytype.com/profile/iotku) (You won't be frustrated watching me type)
+![image](https://github.com/user-attachments/assets/3cb0b834-480e-406a-a4c2-fd2a2a7508d1)
 
