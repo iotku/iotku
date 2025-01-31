@@ -4,7 +4,7 @@
 | -------------               | --------------------------  | -------
 | Java                        | HTML / CSS                  | Computers
 | Golang                      | SQL                         | Speedrunning
-| Javascript/Typescript       | Python                      | Rhythm Games
+| JavaScript/TypeScript       | Python                      | Rhythm Games
 | Bash                        |                             | 
 
 ➟ Developer and System Administrator with a B.S. in Computer Science.
