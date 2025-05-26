@@ -5,7 +5,7 @@
 | Java                        | HTML / CSS                  | Computers
 | Golang                      | SQL                         | Speedrunning
 | JavaScript/TypeScript       | Python                      | Rhythm Games
-| Bash                        |                             | 
+| Bash                        | Lua                         | 
 
 ➟ Developer and System Administrator with a B.S. in Computer Science.
 
