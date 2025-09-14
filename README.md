@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm iotku
 
-| Main Programming Experience | Develolping Experience      | Hobbies
+| Main Experience             | Secondary Experience        | Hobbies
 | -------------               | --------------------------  | -------
 | Java                        | HTML / CSS                  | Computers
 | Golang                      | SQL                         | Speedrunning
 | JavaScript/TypeScript       | Python                      | Rhythm Games
 | Bash                        | Lua                         | 
-
+| SQL                         |                             |
 ➟ Developer and System Administrator with a B.S. in Computer Science.
 
 ### What I've done
