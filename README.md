@@ -7,6 +7,7 @@
 | JavaScript/TypeScript       | Python                      | Rhythm Games
 | Bash                        | Lua                         | 
 | SQL                         |                             |
+
 ➟ Developer and System Administrator with a B.S. in Computer Science.
 
 ### What I've done
